@@ -20,7 +20,7 @@ const NotFound = () => {
         <div className="not-found">
             <Image src="/404.png" alt="404 Logo" width={130} height={120}/>
             &nbsp;
-            <Image src="/5secs.gif" alt="5secs Logo"  width={200} height={120}/>
+            <Image src="img/5secs.gif" alt="5secs Logo"  width={200} height={120}/>
 
             <h2>Oooops...This Page is Lost in Space (ERROR 404)</h2>
 
