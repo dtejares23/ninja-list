@@ -1,6 +1,6 @@
 {
   "extends": "next",
-  "rules": {"react-hooks/exhaustive-deps":"off", "react/no-unescaped-entities": "off",
+  "rules": {"react-hooks/exhaustive-deps":"router", "react/no-unescaped-entities": "off",
   "@next/next/no-page-custom-font": "off"}
 }
 
