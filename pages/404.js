@@ -8,7 +8,7 @@ const NotFound = () => {
     const router = useRouter();
 
     useEffect (() => {
-        console.log('Mali na pili mong website dre');
+        //console.log('Mali na pili mong website dre');
 
         setTimeout(() => {
             //router.go(1)
